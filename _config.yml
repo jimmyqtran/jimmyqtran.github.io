@@ -22,6 +22,7 @@ remote_theme: jimmyqtran/jimmyqtran.github.io
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Theme-specific settings
 
@@ -76,5 +77,3 @@ logo: /assets/img/logo.png
 favicon: /assets/img/coffee.png
 google_analytics: G-0WBF1H5BEC
 url: "https://jimmyqtran.com" # the base hostname & protocol for your site
-plugins:
-  - jekyll-sitemap
