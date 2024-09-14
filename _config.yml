@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  I build intelligent systems that solve complex problems, blending creativity and mentorship throughout my journey. From UC Berkeley to Stanford, I've explored diverse fields—from predicting financial trends to guiding the next generation of innovators. Based in San Francisco, I’m passionate about pushing the boundaries of what's possible in technology and beyond.
+  I build intelligent systems that solve complex problems, blending creativity and mentorship throughout my journey. Based in San Francisco, I’m passionate about pushing the boundaries of what's possible in technology and beyond.
 
 # Build settings
 
