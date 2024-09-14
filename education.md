@@ -44,7 +44,7 @@ GPA: 3.93 / 4.00
 - STAT 135: Concepts of Statistics
 - STAT 151A: Linear Modeling: Theory and Applications
 
-## Foothill College
+## Foothill College†
 **Associate of Science in Computer Science**  
 *Awarded:* August 2023  
 **Relevant Coursework:**
@@ -52,3 +52,6 @@ GPA: 3.93 / 4.00
 - CS 3A: Object-Oriented Programming Methodologies in Python
 - CS 3B: Intermediate Software Design in Python
 - CS 3C: Advanced Data Structures & Algorithms in Python
+
+†<sup>Fun fact: I also earned my 12th associate degree here—in [anthropology](https://www.parchment.com/u/award/c7daeb8936ad05b0d087c9b09669e0ae), because who says you can’t study ancient civilizations while coding?</sup>
+
