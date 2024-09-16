@@ -20,11 +20,6 @@ description: >
 # remote_theme: jekyll/minima
 remote_theme: jimmyqtran/jimmyqtran.github.io
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
 # Theme-specific settings
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
@@ -85,3 +80,9 @@ social:
   links:
     - https://www.linkedin.com/in/jimmyqtran
     - https://x.com/jimmyq_tran
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+

@@ -2,6 +2,7 @@
 layout: page
 title: Investing
 permalink: /investing/
+last_modified_at: 2024-09-16
 ---
 
 (*Spoiler: It’s not as complex as you think* 😉)

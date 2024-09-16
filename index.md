@@ -7,6 +7,7 @@
 #
 layout: home
 image: /assets/img/logo.png
+last_modified_at: 2024-09-16
 ---
 
 <img src="{{ site.logo }}" alt="Logo" style="width: 50%;">

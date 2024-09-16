@@ -2,6 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
+last_modified_at: 2024-09-15
 ---
 
 ## MATH E-23C: Mathematics for Computation and Data Science
