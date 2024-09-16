@@ -6,6 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+image: /assets/img/logo.png
 ---
 
 <img src="{{ site.logo }}" alt="Logo" style="width: 50%;">
