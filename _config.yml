@@ -32,6 +32,7 @@ header_pages:
   - professional.md
   - teaching.md
   - education.md
+  - investing.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
