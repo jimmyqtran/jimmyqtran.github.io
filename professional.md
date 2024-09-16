@@ -43,13 +43,6 @@ Our team partnered with CareerVillage.org to help improve their platform's abili
 
 [▶️ Watch CareerVillage Founder’s Testimonial](https://www.youtube.com/watch?v=k_1Gs-eIb8U)
 
-## Certifications
-- **[DeepLearning.AI Machine Learning in Production](https://coursera.org/share/1a94f570611536d8296a2adaccb7bfad)**  
-*Earned:* August 2024
-
-- **[Google Advanced Data Analytics](https://coursera.org/share/ce8b27041247c51e73f26852b4480856)**  
-*Earned:* May 2023
-
 ---
 
 ## Professional Bodies
