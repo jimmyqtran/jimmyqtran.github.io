@@ -11,7 +11,7 @@ With over 5 years of experience in finance, I’ve arrived at a pretty clear (an
 <div class="spoiler">
   <button onclick="toggleSpoiler()">Click to Reveal Jimmy's Investment Strategy 💼📈</button>
   <div id="secret" style="display: none;">
-    <p>All you need is to invest in... wait for it... a <em>low-cost portfolio of stocks that tracks a market-capped index</em> like <strong>VTI</strong>! 🎉</p> 
+    <p>All you need is to invest in... wait for it... a <em>low-cost portfolio of stocks that tracks a broad market index</em> like <strong>VTI</strong> or <strong>VOO</strong>! 🎉</p> 
     
     <p>Yep, that’s the big secret. No exotic commodities, no chasing the latest crypto, just the good ol' boring stock market. Trust me, boring is exciting in the world of investing. 😎</p>
 
@@ -45,23 +45,24 @@ With over 5 years of experience in finance, I’ve arrived at a pretty clear (an
     <p><strong>Q: But aren’t I missing out on tax credits by just investing in VT? 🧐</strong><br>
     A: Alright, you’re making this more complicated than it needs to be 😅. But yes, if you want to go the extra mile, you can diversify <strong>VTI</strong> with <strong>VXUS</strong> (Vanguard Total International Stock ETF). My recommendation to invest in <strong>VTI</strong> still stands, though. It’s simple and gets the job done! 💪</p>
 
-    <p>There’s a depth of literature and analyses 📚 that goes into why investing in a low-cost portfolio of stocks that tracks a market-capped index, especially an ETF like VTI, would be an optimal choice from both a game-theoretic and statistical perspective, but I may elucidate on those in future blog posts. Stay tuned! 🔍</p>
+    <p>There’s a depth of literature and analyses 📚 that goes into why investing in a low-cost portfolio of stocks that tracks a market-capped index, especially ETFs like VTI or VOO, would be an optimal choice from both a game-theoretic and statistical perspective, but I may elucidate on those in future blog posts. Stay tuned! 🔍</p>
 
 
     <h4>Dictionary:</h4>
 
-    <p><strong>Low-cost portfolio</strong> - Cheap investments that don’t eat up your profits.</p>
+    <p><strong>Low-cost portfolio</strong> - Investments with low fees that don’t eat up your profits.</p>
 
     <p><strong>Stocks</strong> - Pieces of a company you can own, like pizza slices.</p>
-
-    <p><strong>Market-capped index</strong> - A list of companies ranked by their size.</p>
 
     <p><strong>Index</strong> - A group of companies bundled together like a playlist.</p>
 
     <p><strong>VTI</strong> - An all-in-one fund that covers the whole U.S. stock market.</p>
 
+    <p><strong>VOO</strong> - A fund that tracks the S&P 500, which covers the more or less 500 of the largest U.S. companies.</p>
+
     <p><strong>ETF</strong> - Exchange-traded fund, think of it as a basket of stocks or other assets you can trade like a single stock, giving you a diversified investment in one move.</p>
 
+    <p><strong>Market-capped index</strong> - A list of companies ranked by their size, measured by their total market value (price per share times the number of shares). The bigger the company, the more weight it has in the index</p>
 
   </div>
 </div>
