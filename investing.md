@@ -56,6 +56,8 @@ With over 5 years of experience in finance, I’ve arrived at a pretty clear (an
 
     <p><strong>Index</strong> - A group of companies bundled together like a playlist.</p>
 
+    <p><strong>Broad Market Index</strong> - An index that's generally meant to <em>represent</em> the whole stock market, like VTI or VOO.</p>
+
     <p><strong>VTI</strong> - An all-in-one fund that covers the whole U.S. stock market.</p>
 
     <p><strong>VOO</strong> - A fund that tracks the S&P 500, which covers the more or less 500 of the largest U.S. companies.</p>
