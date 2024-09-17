@@ -18,4 +18,4 @@ My educational path has been a coast-to-coast adventure—and even crossed the A
 
 As a proud first-generation 🌱, low-income (FLI) college graduate, my story is deeply rooted in resilience and aspiration. Over 30 years ago, my parents fled Vietnam 🇻🇳 as war refugees, seeking a new beginning in the United States. The courage they’ve shown on their journey continues to inspire me to push boundaries and strive for excellence in all that I do.
 
-When I’m not delving into algorithms or teaching, you can find me exploring the rich world of espresso ☕. My favorite spot for coffee beans is [Andytown Coffee Roasters](https://www.andytownsf.com/).
+When I’m not delving into algorithms or teaching, you can find me exploring the rich world of espresso ☕. My favorite spot for coffee beans is [Andytown Coffee Roasters](https://www.andytownsf.com/). Also love powerlifting 🏋️‍♂️ and playing catch ⚾.
