@@ -2,7 +2,7 @@ title: Jimmy Q. Tran
 tagline: Machine Learning, UC Berkeley '18
 author:
   name: Jimmy Tran
-  # email: your-email@domain.com
+  # email: jimmytran 
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -29,6 +29,7 @@ header_pages:
   - teaching.md
   - education.md
   - investing.md
+  - contact-me.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false

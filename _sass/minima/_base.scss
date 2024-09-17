@@ -280,18 +280,49 @@ table {
   }
 }
 
-// Note for Jimmy: For spoiler tag
-.spoiler button {
-  background-color: #f1f1f1;
-  border: 1px solid #ccc;
-  padding: 10px;
-  cursor: pointer;
-  font-size: 16px;
+/* Note for Jimmy: Formspree form */
+#contact {
+  margin: 2em 0;
 }
 
-.spoiler #secret {
-  margin-top: 10px;
+#contact h2 {
+  font-size: 1.5em;
+  margin-bottom: 0.5em;
+  text-align: center;
+}
+
+#contact form {
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+  margin-left: 0; /* Align form to the left */
+}
+
+#contact label {
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+
+/* Add styling for the name input */
+#contact input[type="text"], /* for the name field */
+#contact input[type="email"], 
+#contact textarea {
+  width: 100%;
   padding: 10px;
-  background-color: #f9f9f9;
-  border: 1px solid #ddd;
+  margin-bottom: 1em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+#contact button {
+  padding: 10px 20px;
+  background-color: #007acc;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#contact button:hover {
+  background-color: #005f99;
 }
