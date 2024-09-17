@@ -17,7 +17,7 @@ GPA: 4.07 / 4.00
 - CS 161: Design and Analysis of Algorithms
 - CS 168: The Modern Algorithmic Toolbox
 - CS 205L: Continuous Mathematical Methods with an Emphasis on Machine Learning
-- CS 369O: Optimization Algorithms (In-progress)
+<!-- - CS 369O: Optimization Algorithms (In-progress) -->
 - EE 278: Probability and Statistical Inference
 - STATS 217: Introduction to Stochastic Processes I
 
