@@ -80,3 +80,5 @@ function toggleSpoiler() {
   }
 }
 </script>
+
+Otherwise, I personally find Humpfrey Yang's media platform (e.g., [YouTube](https://www.youtube.com/@humphrey), [Instagram](https://www.instagram.com/humphreytalks/?hl=en), TikTok, etc) helpful for seasoned or newcomers to the world of personal finance.
