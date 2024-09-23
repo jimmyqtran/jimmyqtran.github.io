@@ -10,11 +10,13 @@ last_modified_at: 2024-09-15
 *In Progress*  
 GPA: 4.07 / 4.00  
 **Relevant Coursework:**
-- CS 103: Mathematical Foundations of Computing
-- CS 107: Computer Organization and Systems (In-progress)
-- CS 109: Introduction to Probability for Computer Scientists
+- [CS Core](https://www.cs.stanford.edu/bs-core-requirements)
+    - CS 103: Mathematical Foundations of Computing
+    - CS 107: Computer Organization and Systems (In-progress)
+    - CS 109: Introduction to Probability for Computer Scientists
+    - CS 111: Operating Systems Principles **OR** CS 212: Operating Systems (Planned)
+    - CS 161: Design and Analysis of Algorithms
 - CS 154: Introduction to the Theory of Computation
-- CS 161: Design and Analysis of Algorithms
 - CS 168: The Modern Algorithmic Toolbox
 - CS 205L: Continuous Mathematical Methods with an Emphasis on Machine Learning
 <!-- - CS 369O: Optimization Algorithms (In-progress) -->
