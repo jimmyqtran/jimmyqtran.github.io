@@ -50,3 +50,4 @@ Our team partnered with CareerVillage.org to help improve their platform's abili
 
 - **GradStat (Graduate Statistician) & Data Science Professional**: Royal Statistical Society (RSS)
 - **Member**: Society for Industrial and Applied Mathematics (SIAM)
+- **Member**: Association for Computing Machinery (ACM)
