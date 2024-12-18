@@ -8,7 +8,7 @@ last_modified_at: 2024-09-15
 ## Stanford University  
 **Graduate Foundations in Computer Science**  
 *In Progress*  
-GPA: 4.07 / 4.00  
+GPA: 4.097 / 4.000  
 **Relevant Coursework:**
 - [CS Core](https://www.cs.stanford.edu/bs-core-requirements)
     - CS 103: Mathematical Foundations of Computing
