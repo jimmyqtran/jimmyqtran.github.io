@@ -6,7 +6,7 @@ last_modified_at: 2024-09-15
 ---
 
 ## Stanford University  
-**Graduate Foundations in Computer Science**  
+**Graduate Foundations in Computer Science, Electrical Engineering**
 *In Progress*  
 GPA: 4.097 / 4.000  
 **Relevant Coursework:**
