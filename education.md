@@ -2,7 +2,7 @@
 layout: page
 title: Education
 permalink: /education/
-last_modified_at: 2024-09-15
+last_modified_at: 2024-12-19
 ---
 
 ## Stanford University  
