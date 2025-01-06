@@ -26,7 +26,6 @@ GPA: 4.097 / 4.000
 
 ## Harvard University, Harvard Extension School  
 **Graduate Certificate in Data Science**  
-*Awarded:* January 2021  
 GPA: 3.93 / 4.00  
 **Relevant Coursework:**
 - CSCI E-63C: Elements of Data Science and Statistical Learning with R
@@ -40,7 +39,6 @@ GPA: 3.93 / 4.00
 
 ## University of California, Berkeley  
 **Bachelor of Arts in Economics, Statistics**  
-*Awarded:* August 2018  
 **Relevant Coursework:**
 - MATH 54: Linear Algebra and Differential Equations
 - STAT 133: Concepts in Computing with Data
@@ -50,7 +48,6 @@ GPA: 3.93 / 4.00
 
 ## Foothill College†
 **Associate of Science in Computer Science**  
-*Awarded:* August 2023  
 **Relevant Coursework:**
 - CS 2A: Object-Oriented Programming Methodologies in C++
 - CS 3A: Object-Oriented Programming Methodologies in Python
