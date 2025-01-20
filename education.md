@@ -15,12 +15,11 @@ GPA: 4.097 / 4.000
     - CS 103: Mathematical Foundations of Computing
     - CS 107: Computer Organization and Systems
     - CS 109: Introduction to Probability for Computer Scientists
-    - CS 111: Operating Systems Principles **OR** CS 212: Operating Systems (Planned)
+    - CS 111: Operating Systems Principles (In-progress)
     - CS 161: Design and Analysis of Algorithms
 - CS 154: Introduction to the Theory of Computation
 - CS 168: The Modern Algorithmic Toolbox
 - CS 205L: Continuous Mathematical Methods with an Emphasis on Machine Learning
-<!-- - CS 369O: Optimization Algorithms (In-progress) -->
 - EE 278: Probability and Statistical Inference
 - STATS 217: Introduction to Stochastic Processes I
 
