@@ -20,8 +20,10 @@ GPA: 4.112 / 4.000
 - CS 154: Introduction to the Theory of Computation
 - CS 168: The Modern Algorithmic Toolbox
 - CS 205L: Continuous Mathematical Methods with an Emphasis on Machine Learning
+- EE 282: Computer Systems Architecture (Planned)
 - EE 278: Probability and Statistical Inference
 - EE 364A: Convex Optimzation I
+- EE 364B: Convex Optimization II (In-progress)
 - STATS 217: Introduction to Stochastic Processes I
 
 ## Harvard University, Harvard Extension School  
