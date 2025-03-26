@@ -9,7 +9,7 @@ last_modified_at: 2024-12-19
 **Graduate Foundations in Computer Science, Electrical Engineering**
 
 *In Progress*  
-GPA: 4.097 / 4.000  
+GPA: 4.112 / 4.000  
 **Relevant Coursework:**
 - [CS Core](https://www.cs.stanford.edu/bs-core-requirements)
     - CS 103: Mathematical Foundations of Computing
@@ -21,7 +21,7 @@ GPA: 4.097 / 4.000
 - CS 168: The Modern Algorithmic Toolbox
 - CS 205L: Continuous Mathematical Methods with an Emphasis on Machine Learning
 - EE 278: Probability and Statistical Inference
-- EE 364A: Convex Optimzation I (In-progress)
+- EE 364A: Convex Optimzation I
 - STATS 217: Introduction to Stochastic Processes I
 
 ## Harvard University, Harvard Extension School  
