@@ -20,8 +20,8 @@ GPA: 4.112 / 4.000
 - CS 154: Introduction to the Theory of Computation
 - CS 168: The Modern Algorithmic Toolbox
 - CS 205L: Continuous Mathematical Methods with an Emphasis on Machine Learning
+- EE 263: Introduction to Linear Dynamical Systems (Planned)
 - EE 282: Computer Systems Architecture (In-progress)
-- EE 263: Introduuction to Linear Dynamical Systems (Planned)
 - EE 278: Probability and Statistical Inference
 - EE 364A: Convex Optimzation I
 - STATS 217: Introduction to Stochastic Processes I
