@@ -23,7 +23,7 @@ GPA: 4.112 / 4.000
 - EE 263: Introduction to Linear Dynamical Systems (Planned)
 - EE 282: Computer Systems Architecture (In-progress)
 - EE 278: Probability and Statistical Inference
-- EE 364A: Convex Optimzation I
+- EE 364A: Convex Optimization I
 - STATS 217: Introduction to Stochastic Processes I
 
 ## Harvard University, Harvard Extension School  
