@@ -21,9 +21,9 @@ GPA: 4.112 / 4.000
 - CS 168: The Modern Algorithmic Toolbox
 - CS 205L: Continuous Mathematical Methods with an Emphasis on Machine Learning
 - EE 263: Introduction to Linear Dynamical Systems (Planned)
-- EE 282: Computer Systems Architecture (In-progress)
 - EE 278: Probability and Statistical Inference
 - EE 364A: Convex Optimization I
+- ME 300C: Introduction to Numerical Methods in Engineering (In-progress)
 - STATS 217: Introduction to Stochastic Processes I
 
 ## Harvard University, Harvard Extension School  
