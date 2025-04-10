@@ -44,8 +44,9 @@ GPA: 3.93 / 4.00
 - STAT 134: Concepts of Probability
 - STAT 135: Concepts of Statistics
 - STAT 151A: Linear Modeling: Theory and Applications
+- ME 317: Statistical Methods for Risk Management[^1]
 
-## Foothill College†
+## Foothill College[^2]
 **Associate of Science in Computer Science**  
 **Relevant Coursework:**
 - CS 2A: Object-Oriented Programming Methodologies in C++
@@ -53,5 +54,6 @@ GPA: 3.93 / 4.00
 - CS 3B: Intermediate Software Design in Python
 - CS 3C: Advanced Data Structures & Algorithms in Python
 
-†<sup>Fun fact: I also earned my 12th associate degree here—in [anthropology](https://www.parchment.com/u/award/c7daeb8936ad05b0d087c9b09669e0ae), because who says you can’t study ancient civilizations while coding?</sup>
+[^1]: ME 317 is a course I took while studying abroad at the London School of Economics and Political Science.
 
+[^2]: I also earned my 12th associate degree here—in [anthropology](https://www.parchment.com/u/award/c7daeb8936ad05b0d087c9b09669e0ae), because who says you can’t study ancient civilizations while coding?
