@@ -11,16 +11,13 @@ last_modified_at: 2025-04-08
 *In Progress*  
 GPA: 4.112 / 4.000  
 **Relevant Coursework:**
-- [CS Core](https://www.cs.stanford.edu/bs-core-requirements)
-    - CS 103: Mathematical Foundations of Computing
-    - CS 107: Computer Organization and Systems
-    - CS 109: Introduction to Probability for Computer Scientists
-    - CS 161: Design and Analysis of Algorithms
-    - CS 212: Operating Systems and Systems Programming (Planned)
+- CS 103: Mathematical Foundations of Computing
+- CS 107: Computer Organization and Systems
+- CS 109: Introduction to Probability for Computer Scientists
 - CS 154: Introduction to the Theory of Computation
+- CS 161: Design and Analysis of Algorithms
 - CS 168: The Modern Algorithmic Toolbox
 - CS 205L: Continuous Mathematical Methods with an Emphasis on Machine Learning
-- EE 263: Introduction to Linear Dynamical Systems (Planned)
 - EE 278: Probability and Statistical Inference
 - EE 364A: Convex Optimization I
 - ME 300C: Introduction to Numerical Methods in Engineering (In-progress)
