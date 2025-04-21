@@ -15,12 +15,12 @@ last_modified_at: 2024-09-15
 **JPMorgan Chase** — San Francisco, CA  
 *July 2023 – April 2024*
 
-#### Senior Quantitative Developer, Statistical Modeling  
+#### Senior Quantitative Analyst, Statistical Modeling
 **First Republic Bank** — San Francisco, CA  
 *September 2022 – June 2023*
 
 
-#### Quantitative Developer, Statistical Modeling  
+#### Quantitative Analyst, Statistical Modeling
 **First Republic Bank** — San Francisco, CA  
 *June 2019 – September 2022*
 

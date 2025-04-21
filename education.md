@@ -20,7 +20,6 @@ GPA: 4.112 / 4.000
 - CS 205L: Continuous Mathematical Methods with an Emphasis on Machine Learning
 - EE 278: Probability and Statistical Inference
 - EE 364A: Convex Optimization I
-- ME 300C: Introduction to Numerical Methods in Engineering (In-progress)
 - STATS 217: Introduction to Stochastic Processes I
 
 ## Harvard University, Harvard Extension School  
