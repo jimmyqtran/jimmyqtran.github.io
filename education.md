@@ -31,8 +31,8 @@ GPA: 3.93 / 4.00
 - CSCI E-108: Data Mining, Discovery, and Exploration
 - ISMT E-136: Time Series Analysis with Python
 - ISMT S-161: Computational Bayesian Inference
-- MATH E-23A: Linear Algebra and Real Analysis I
-- MATH E-23C: Mathematics for Computation and Data Science
+- MATH E-23A: Linear Algebra and Real Analysis I ([notes]({{ "/assets/notes/math23a_proofs.pdf" | relative_url }}))
+- MATH E-23C: Mathematics for Computation and Data Science ([notes]({{ "/assets/notes/math23c_proofs.pdf" | relative_url }}))
 - MATH E-156: Mathematical Statistics
 
 ## University of California, Berkeley  
