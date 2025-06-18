@@ -24,7 +24,6 @@ GPA: 4.112 / 4.000
 
 ## Harvard University, Harvard Extension School  
 **Graduate Certificate in Data Science**  
-GPA: 3.93 / 4.00  
 **Relevant Coursework:**
 - CSCI E-63C: Elements of Data Science and Statistical Learning with R
 - CSCI E-89C: Deep Reinforcement Learning
