@@ -18,6 +18,7 @@ GPA: 4.112 / 4.000
 - CS 161: Design and Analysis of Algorithms
 - CS 168: The Modern Algorithmic Toolbox
 - CS 205L: Continuous Mathematical Methods with an Emphasis on Machine Learning
+- EE 261: The Fourier Transform and Its Applications (In-progress)
 - EE 278: Probability and Statistical Inference
 - EE 364A: Convex Optimization I
 - STATS 217: Introduction to Stochastic Processes I
