@@ -9,7 +9,7 @@ last_modified_at: 2025-04-08
 **Graduate Foundations in Computer Science, Electrical Engineering**
 
 *In Progress*  
-GPA: 4.112 / 4.000  
+GPA: 4.125 / 4.000  
 **Relevant Coursework:**
 - CS 103: Mathematical Foundations of Computing
 - CS 107: Computer Organization and Systems
@@ -18,7 +18,7 @@ GPA: 4.112 / 4.000
 - CS 161: Design and Analysis of Algorithms
 - CS 168: The Modern Algorithmic Toolbox
 - CS 205L: Continuous Mathematical Methods with an Emphasis on Machine Learning
-- EE 261: The Fourier Transform and Its Applications (In-progress)
+- EE 261: The Fourier Transform and Its Applications
 - EE 278: Probability and Statistical Inference
 - EE 364A: Convex Optimization I
 - STATS 217: Introduction to Stochastic Processes I
