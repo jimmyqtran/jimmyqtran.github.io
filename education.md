@@ -11,6 +11,7 @@ last_modified_at: 2025-04-08
 *In Progress*  
 GPA: 4.125 / 4.000  
 **Relevant Coursework:**
+- CME 302: Numerical Linear Algebra (In-progress)
 - CS 103: Mathematical Foundations of Computing
 - CS 107: Computer Organization and Systems
 - CS 109: Introduction to Probability for Computer Scientists
@@ -21,6 +22,8 @@ GPA: 4.125 / 4.000
 - EE 261: The Fourier Transform and Its Applications
 - EE 278: Probability and Statistical Inference
 - EE 364A: Convex Optimization I
+- EE 377: Information Theory and Statistics (In-progress)
+- MS&E 245A: Investment Science (In-progress)
 - STATS 217: Introduction to Stochastic Processes I
 
 ## Harvard University, Harvard Extension School  
