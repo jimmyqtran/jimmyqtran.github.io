@@ -22,7 +22,7 @@ GPA: 4.125 / 4.000
 - EE 261: The Fourier Transform and Its Applications
 - EE 278: Probability and Statistical Inference
 - EE 364A: Convex Optimization I
-- EE 377: Information Theory and Statistics (In-progress)
+- EE 377 / STATS 311: Information Theory and Statistics (In-progress)
 - STATS 217: Introduction to Stochastic Processes I
 
 ## Harvard University, Harvard Extension School  
