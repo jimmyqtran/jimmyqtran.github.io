@@ -9,9 +9,9 @@ last_modified_at: 2025-04-08
 **Graduate Foundations in Computer Science, Electrical Engineering**
 
 *In Progress*  
-GPA: 4.125 / 4.000  
+GPA: 4.128 / 4.000  
 **Relevant Coursework:**
-- CME 302: Numerical Linear Algebra (In-progress)
+- CME 302: Numerical Linear Algebra
 - CS 103: Mathematical Foundations of Computing
 - CS 107: Computer Organization and Systems
 - CS 109: Introduction to Probability for Computer Scientists
@@ -22,7 +22,7 @@ GPA: 4.125 / 4.000
 - EE 261: The Fourier Transform and Its Applications
 - EE 278: Probability and Statistical Inference
 - EE 364A: Convex Optimization I
-- EE 377 / STATS 311: Information Theory and Statistics (In-progress)
+- EE 377 / STATS 311: Information Theory and Statistics
 - STATS 217: Introduction to Stochastic Processes I
 
 ## Harvard University, Harvard Extension School  
