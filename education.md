@@ -38,14 +38,7 @@ GPA: 4.128 / 4.000
 - MATH E-156: Mathematical Statistics
 
 ## University of California, Berkeley  
-**Bachelor of Arts in Economics, Statistics**  
-**Relevant Coursework:**
-- MATH 54: Linear Algebra and Differential Equations
-- STAT 133: Concepts in Computing with Data
-- STAT 134: Concepts of Probability
-- STAT 135: Concepts of Statistics
-- STAT 151A: Linear Modeling: Theory and Applications
-- ME 317: Statistical Methods for Risk Management[^1]
+**Bachelor of Arts in Economics**  
 
 ## Foothill College[^2]
 **Associate of Science in Computer Science**  
