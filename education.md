@@ -9,7 +9,7 @@ last_modified_at: 2026-01-09
 **Graduate Certificate in [Electrical Engineering](https://digitalcredential.stanford.edu/check/AC6246FEB3D09E5BD93575AEA25E0A4698EA4E64150110044D42F137102C4965S0ozckw1amQ1S1ZFcmsrMkJrcHVaMnRhOHZPaHdaUmVrSGp5b3JhdU5EbG10Zk9q) & [Computer Science](https://digitalcredential.stanford.edu/check/974E841E47099C1FC0184D0896F53D901D933BBD5B51D35CE44F1D2653D3EF9DOHF3RFo3L3hSY01sK0dOZzRCQkFUNEExaU9Wb01iZTlZcEFiaUszMDBNNmJQeXEy)**
 
 *In Progress*  
-GPA: 4.128 
+GPA: 4.128  
 **Relevant Coursework:**
 - CME 302: Numerical Linear Algebra
 - CS 103: Mathematical Foundations of Computing
