@@ -12,7 +12,7 @@ last_modified_at: 2024-09-16
 
 <img src="{{ site.logo }}" alt="Logo" style="width: 50%;">
 
-I’ve been on a mission to apply machine learning and data science to fintech. I build intelligent systems that solve complex problems and make intricate ideas accessible and impactful. I’m studying part-time as a graduate student at Stanford University 🎓 to deepen my knowledge.
+I’ve been on a mission to apply machine learning and data science to fintech. I build intelligent systems that solve complex problems and make intricate ideas accessible and impactful. I’m currently a part-time student at Stanford and will transition to the full-time M.S. in Computational and Mathematical Engineering (ICME) this September 2026.
 
 After completing my studies at the University of California, Berkeley 🐻, I crossed the Atlantic to study at the London School of Economics and Political Science 🇬🇧. Eager to deepen my expertise in data-driven technologies, I earned a Graduate Certificate in Data Science from Harvard Extension School 🎓 in 2021.
 
