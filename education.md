@@ -11,7 +11,11 @@ last_modified_at: 2026-01-09
 *In Progress*  
 GPA: 4.128  
 **Relevant Coursework:**
+
+**Computational and Mathematical Engineering**
 - CME 302: Numerical Linear Algebra
+
+**Computer Science**
 - CS 103: Mathematical Foundations of Computing
 - CS 107: Computer Organization and Systems
 - CS 109: Introduction to Probability for Computer Scientists
@@ -19,10 +23,14 @@ GPA: 4.128
 - CS 161: Design and Analysis of Algorithms
 - CS 168: The Modern Algorithmic Toolbox
 - CS 205L: Continuous Mathematical Methods with an Emphasis on Machine Learning
+
+**Electrical Engineering**
 - EE 261: The Fourier Transform and Its Applications
 - EE 278: Probability and Statistical Inference
 - EE 364A: Convex Optimization I
 - EE 377 / STATS 311: Information Theory and Statistics
+
+**Statistics**
 - STATS 217: Introduction to Stochastic Processes I
 
 ## Harvard University, Harvard Extension School  
