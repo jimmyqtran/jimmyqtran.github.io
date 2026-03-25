@@ -30,6 +30,9 @@ GPA: 4.128
 - EE 364A: Convex Optimization I
 - EE 377 / STATS 311: Information Theory and Statistics
 
+**Management Science and Engineering**
+- MS&E 245B: Advanced Investment Science
+
 **Statistics**
 - STATS 217: Introduction to Stochastic Processes I
 
