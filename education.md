@@ -12,6 +12,7 @@ GPA: 4.138
 **Relevant Coursework:**
 
 **Computational and Mathematical Engineering**
+- CME 213: Introduction to parallel computing using MPI, openMP, and CUDA (In-progress)
 - CME 302: Numerical Linear Algebra
 
 **Computer Science**
