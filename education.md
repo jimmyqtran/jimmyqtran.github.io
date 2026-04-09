@@ -6,13 +6,13 @@ last_modified_at: 2026-01-09
 ---
 
 ## Stanford University  
+**Master of Science in Computational and Mathematical Engineering**  
 **Graduate Certificate in [Electrical Engineering](https://digitalcredential.stanford.edu/check/AC6246FEB3D09E5BD93575AEA25E0A4698EA4E64150110044D42F137102C4965S0ozckw1amQ1S1ZFcmsrMkJrcHVaMnRhOHZPaHdaUmVrSGp5b3JhdU5EbG10Zk9q) & [Computer Science](https://digitalcredential.stanford.edu/check/974E841E47099C1FC0184D0896F53D901D933BBD5B51D35CE44F1D2653D3EF9DOHF3RFo3L3hSY01sK0dOZzRCQkFUNEExaU9Wb01iZTlZcEFiaUszMDBNNmJQeXEy)**
 
 GPA: 4.138  
 **Relevant Coursework:**
 
 **Computational and Mathematical Engineering**
-- CME 213: Introduction to parallel computing using MPI, openMP, and CUDA (In-progress)
 - CME 302: Numerical Linear Algebra
 
 **Computer Science**
